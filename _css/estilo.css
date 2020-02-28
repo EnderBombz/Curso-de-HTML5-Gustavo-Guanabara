@@ -138,8 +138,23 @@ header#cabecalho h2{
         font-size: 12pt;
         color: #606060;
         background-color: #dddddd;
-        padding: 5px 0px 5px 0px;
-        margin: 10px;
+        padding: 5px 0px 5px 10px;
+        margin: 10px 0px 10px 0px;
+    }
+    header#cabecalho-artigo h1{
+        font-family: 'FonteLogo',sans-serif;
+        font-size: 20pt;
+        color:#606060;
+        margin-bottom: 0px;
+    }
+    header#cabecalho-artigo h2{
+        font-size: 13pt;
+        color:#cecece;
+        background-color: #ffffff;
+        margin: 0px;
+    }
+    header#cabecalho-artigo h3{
+
     }
 
 
