@@ -133,6 +133,15 @@ header#cabecalho h2{
         border-right: 1px solid #606060;
         padding-right: 15px ;
     }
+    article#noticia-principal h2{
+
+        font-size: 12pt;
+        color: #606060;
+        background-color: #dddddd;
+        padding: 5px 0px 5px 0px;
+        margin: 10px;
+    }
+
 
     table#tabelaspec{
         border:1px solid #606060;
